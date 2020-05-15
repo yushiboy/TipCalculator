@@ -1,0 +1,14 @@
+body{
+    font-size: medium;
+    width: 100%;
+    margin: 0 auto;
+    letter-spacing: .5px;
+}
+h1 {
+    text-align: center;
+}
+
+#container {
+    padding: 1.5em;
+    background: linear-gradient(-45deg, rgb(245,154, 175),rgb(241,85,38));
+}
